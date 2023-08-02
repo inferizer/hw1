@@ -1,0 +1,30 @@
+body{
+    font-family: 'Kanit', sans-serif;
+    /* text-align: center; */
+}
+
+h1{
+    margin: 0px ;
+}
+
+nav{
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+  }
+  
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+  }
+
+form{
+    border-radius: 10px;
+    background-color: #b8b8b8;
+    width: 500px;
+    padding: 10px;
+}
